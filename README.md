@@ -106,8 +106,8 @@ MyDoctor Emergency: +91 9876543210
 👥 Team
 🇮🇳 Proudly Made in India
 Developer	Role	Contact
-Devesh Giri	Lead Developer	er.deveshgiri@gmail.com
-Uday Gaur	Co-Developer	er.udaygaur@gmail.com
+Uday Gaur	Lead Developer	er.udaygaur@gmail.com
+Devesh Giri	Co-Developer	er.deveshgiri@gmail.com
 🤝 Contributing
 We welcome contributions from the community! Here's how you can help:
 
@@ -143,7 +143,7 @@ Performance Score: 98/100
 Live Demo: https://your-username.github.io/mydoctor-healthcare-website/
 Repository: https://github.com/your-username/mydoctor-healthcare-website
 Issues: Report bugs and request features
-🏥 Made with ❤️ in India by Devesh Giri & Uday Gaur
+🏥 Made with ❤️ in India by Uday Gaur and Devesh Giri
 
 Providing healthcare solutions for a healthier tomorrow
 
